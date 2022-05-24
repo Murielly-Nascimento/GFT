@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 
 public class Stream {
     public static void main(String[] args) {
-        List<String> lista = Arrays.asList("1","5","3","4","9","7");
+        List<String> lista = Arrays.asList("1","5","3","4","9","7","2");
 
         //Simplificação de métodos usando reference method
         System.out.println("Imprimindo lista de números");
